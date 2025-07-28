@@ -1,0 +1,23 @@
+.active {
+    background-color: gray !important;
+    padding: 10px !important;
+    color: #fff !important;
+    border-radius : 10px;
+
+}
+
+img {
+    cursor: pointer;
+}
+
+
+.x {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
